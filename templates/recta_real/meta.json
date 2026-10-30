@@ -1,0 +1,12 @@
+{
+  "order": 2,
+  "category": "tikz",
+  "pattern": "figure",
+  "fit": "contain",
+  "meta": "TikZ · standalone",
+  "title": { "es": "Recta real con TikZ", "en": "Real number line in TikZ" },
+  "description": {
+    "es": "Recta numérica con π, e, √2 y fracciones señaladas. Lista para pegar en tu documento.",
+    "en": "Number line marking π, e, √2 and fractions. Ready to paste into your document."
+  }
+}

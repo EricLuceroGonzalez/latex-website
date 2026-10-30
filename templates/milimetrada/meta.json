@@ -1,0 +1,11 @@
+{
+  "order": 1,
+  "category": "papel",
+  "pattern": "mm",
+  "meta": "A4 · 18 × 25 cm",
+  "title": { "es": "Papel milimetrado", "en": "Millimetre paper" },
+  "description": {
+    "es": "Rejilla de 1 mm con líneas cada 5 mm, 1 cm y 5 cm. Cambia el tamaño en dos líneas.",
+    "en": "1 mm grid with lines every 5 mm, 1 cm and 5 cm. Change the size in two lines."
+  }
+}
