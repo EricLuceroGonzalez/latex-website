@@ -1,0 +1,4 @@
+.DS_Store
+# latexmk deja los auxiliares en build/
+build/
+*.synctex.gz

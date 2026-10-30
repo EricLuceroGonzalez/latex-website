@@ -1,0 +1,44 @@
+\documentclass[11pt,a4paper]{article}
+
+% --- Idioma y codificación
+\usepackage[T1]{fontenc}
+\usepackage[spanish,es-tabla]{babel}
+\usepackage{lmodern}
+\usepackage{microtype}
+
+% --- Página
+\usepackage[margin=2.5cm]{geometry}
+
+% --- Matemáticas, figuras y tablas
+\usepackage{amsmath, amssymb, amsthm}
+\usepackage{graphicx}
+\graphicspath{{figures/}}
+\usepackage{booktabs}
+\usepackage[ruled,vlined]{algorithm2e}
+
+% --- Bibliografía (biber)
+\usepackage[backend=biber, style=authoryear, maxbibnames=99]{biblatex}
+\addbibresource{refs.bib}
+
+% --- Enlaces (cargar casi al final)
+\usepackage[hidelinks]{hyperref}
+\usepackage[capitalise, noabbrev]{cleveref}
+
+\title{cuadricula}
+\author{Eric Lucero González\\ \small Universidad Politécnica de Madrid}
+\date{\today}
+
+\begin{document}
+\maketitle
+
+\begin{abstract}
+Resumen del trabajo en un párrafo.
+\end{abstract}
+
+\section{Introducción}
+\label{sec:intro}
+
+Texto de ejemplo con una cita~\parencite{ejemplo2026}.
+
+\printbibliography
+\end{document}
