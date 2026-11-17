@@ -1,0 +1,18 @@
+{
+  "status": "soon",
+  "order": 11,
+  "category": "papel",
+  "pattern": "dots",
+  "title": {
+    "es": "Ruled vertical dots",
+    "en": "Ruled vertical dots"
+  },
+  "description": {
+    "es": "PENDIENTE: describe la plantilla.",
+    "en": "TODO: describe the template."
+  },
+  "variants": [
+    "A4",
+    "A5"
+  ]
+}

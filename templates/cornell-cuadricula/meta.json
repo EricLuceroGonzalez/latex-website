@@ -1,0 +1,14 @@
+{
+  "order": 5,
+  "category": "papel",
+  "pattern": "grid",
+  "title": {
+    "es": "Cuadrícula Cornell",
+    "en": "Cornell grid"
+  },
+  "description": {
+    "es": "Hoja Cornell: cabecera para título y fecha, columna de ideas clave, área de notas con cuadrícula de 5 mm y franja de resumen.",
+    "en": "Cornell sheet: header for title and date, key-ideas column, notes area with a 5 mm grid and a summary strip."
+  },
+  "variants": ["A4", "A5"]
+}

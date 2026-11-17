@@ -1,0 +1,17 @@
+{
+  "order": 9,
+  "category": "papel",
+  "pattern": "dots",
+  "title": {
+    "es": "Papel punteado 5mm",
+    "en": "Dotted paper 5mm"
+  },
+  "description": {
+    "es": "Papel punteado con separaciones de 5 mm.",
+    "en": "Dotted paper with 5 mm separations."
+  },
+  "variants": [
+    "A4",
+    "A5"
+  ]
+}

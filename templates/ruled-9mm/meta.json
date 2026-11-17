@@ -1,0 +1,18 @@
+{
+  "status": "soon",
+  "order": 10,
+  "category": "papel",
+  "pattern": "ruled",
+  "title": {
+    "es": "Ruled 9mm",
+    "en": "Ruled 9mm"
+  },
+  "description": {
+    "es": "PENDIENTE: describe la plantilla.",
+    "en": "TODO: describe the template."
+  },
+  "variants": [
+    "A4",
+    "A5"
+  ]
+}

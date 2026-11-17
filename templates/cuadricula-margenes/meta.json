@@ -1,0 +1,17 @@
+{
+  "order": 7,
+  "category": "papel",
+  "pattern": "grid",
+  "title": {
+    "es": "Papel cuadriculado con margenes 5 mm.",
+    "en": "Grid paper with 5 mm margins"
+  },
+  "description": {
+    "es": "Papel cuadriculado con margenes 5 mm en ambos lados.",
+    "en": "Grid paper with 5 mm margins in both sides."
+  },
+  "variants": [
+    "A4",
+    "A5"
+  ]
+}

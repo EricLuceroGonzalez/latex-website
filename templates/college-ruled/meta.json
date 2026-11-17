@@ -1,0 +1,17 @@
+{
+  "order": 4,
+  "category": "papel",
+  "pattern": "ruled",
+  "title": {
+    "es": "College ruled",
+    "en": "College ruled"
+  },
+  "description": {
+    "es": "Papel rayado college de 7 mm.",
+    "en": "College ruled paper with 7 mm spacing."
+  },
+  "variants": [
+    "A4",
+    "A5"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "status": "soon",
+  "order": 12,
+  "category": "papel",
+  "pattern": "ruled",
+  "title": {
+    "es": "Underlay paper",
+    "en": "Underlay paper"
+  },
+  "description": {
+    "es": "PENDIENTE: describe la plantilla.",
+    "en": "TODO: describe the template."
+  },
+  "variants": [
+    "A4",
+    "A5"
+  ]
+}

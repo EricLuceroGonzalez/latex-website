@@ -1,0 +1,17 @@
+{
+  "order": 6,
+  "category": "papel",
+  "pattern": "grid",
+  "title": {
+    "es": "Papel cuadriculado de 5 mm.",
+    "en": "5 mm grid paper."
+  },
+  "description": {
+    "es": "Papel cuadriculado de 5 mm.",
+    "en": "5 mm grid paper."
+  },
+  "variants": [
+    "A4",
+    "A5"
+  ]
+}
